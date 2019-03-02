@@ -90,6 +90,7 @@ GoBridge (support@golangbridge.org)
 [Maartje Eyskens](https://twitter.com/MaartjeME),
 [Natalie Pistunovich](https://twitter.com/NataliePis),
 [Sarah Allen](https://twitter.com/ultrasaurus),
+[Van Riper](https://twitter.com/vanriper),
 [Wilken Rivera](https://twitter.com/wilkenrivera),
 [William Kennedy](https://twitter.com/goinggodotnet)
 
