@@ -1,13 +1,13 @@
-# GoBridge CoC
+# GoBridge/Women Who Go - CoC
 
-GoBridge uses the Go CoC as our base document:
+GoBridge (GB) and Women Who Go (WWG) uses the Go CoC as our base document:
 
 [Go CoC](https://golang.org/conduct) | [Go Forum](https://forum.golangbridge.org/) | [Gophers Slack](http://invite.slack.golangbridge.org)
 
-## GoBridge Addendum
+## GB/WWG Addendum
 
 ### Real Names
-If you feel comfortable, we encourage you to use your real name in all of our online and offline GoBridge communities and events. We find it encourages openness and civility in discussions. However, this is not a requirement.
+If you feel comfortable, we encourage you to use your real name in all of our online and offline GB/WWG communities and events. We find it encourages openness and civility in discussions. However, this is not a requirement.
 
 Organizers and moderators may ask people to change their handles or usernames if it conflicts with known public figures, impersonates other people, sounds like automated tools, contains inappropriate language, or other unclear cases.
 
@@ -15,7 +15,7 @@ Organizers and moderators may ask people to change their handles or usernames if
 We are working hard to keep our public spaces family-friendly and as inclusive as possible. At the organizers or moderators discretion, words and images that are deemed inappropriate or offensive will be moderated. Please reach out to the organizers or moderators for a list of words that are being moderated.
 
 ### Moderation
-Participants in our online and offline GoBridge communities and events should flag inappropriate behavior to organizers and moderators rather than addressing it themselves. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category, and public conversations that are inappropriate. Please report any violations to the #admin-help channel on gophers.slack.com as early as possible or privately message Cassandra Salisbury or William Kennedy directly. At our offline events please report any violations to the organizers or email support@golangbridge.org.
+Participants in our online and offline GB/WWG communities and events should flag inappropriate behavior to organizers and moderators rather than addressing it themselves. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category, and public conversations that are inappropriate. Please report any violations to the #admin-help channel on gophers.slack.com as early as possible or privately message Cassandra Salisbury or William Kennedy directly. At our offline events please report any violations to the organizers or email support@golangbridge.org.
 
 ### Moderator guidelines for applying policies and the CoC
 It’s important that all users’ questions, answers and comments are in line with this CoC, as well as with the category and topic, or channel, they belong to. When an organizer or moderator decides to approach someone personally, they must always assume intentions are good, which is usually the case. Over-moderation is harmful to the atmosphere of the community and should be avoided.
@@ -44,27 +44,27 @@ Not all spam posts are by spam users. For example, a legitimate user account may
 Commercial content is allowed if relevant to answering a question or keeping inline with a topic.
 
 #### Reporting guidelines
-If someone is subject to or witnesses unacceptable behavior, or has any other concerns, they are strongly encouraged to notify an organizer, moderator  or a GoBridge Leadership team member as soon as possible. Every reported concern will follow this workflow until resolved:
+If someone is subject to or witnesses unacceptable behavior, or has any other concerns, they are strongly encouraged to notify an organizer, moderator or a GB Leadership team member as soon as possible. Every reported concern will follow this workflow until resolved:
 
 - Make contact by directly talking to an organizer, moderator or emailing support@golangbridge.org
-  - Your email message will reach the **GoBridge Leadership team** only.
-  - Reports will be confidential within the organizers team, moderators team or GoBridge’s Leadership team.
+  - Your email message will reach the **GB Leadership team** only.
+  - Reports will be confidential within the organizers team, moderators team or GB’s Leadership team.
 
 - You will receive a response within 24-48 hours (very likely sooner) in our online communities. For our offline communities and events, a response should be expected within an hour or two.
 - The group will review the incident and determine what happened.
 - They may reach out to other community members for more context.
 - The team will reach a decision as to how to act. These include:
   - Nothing.
-  - A private reprimand from the GoBridge Leadership team to the individual(s) involved.
-  - An imposed vacation (i.e. asking someone to "take a week off" from all GoBridge moderated properties).
+  - A private reprimand from the GB Leadership team to the individual(s) involved.
+  - An imposed vacation (i.e. asking someone to "take a week off" from all GB moderated properties).
   - A request for a private or public apology.
-  - A temporary or permanent ban from some or all GoBridge moderated communities and events. GoBridge Leadership team will reach out to the original reporter to let them know what action we decided to take.
-  - Appeals to the decision may be made to the GoBridge Leadership team directly, or any member of the administration team thereof.
+  - A temporary or permanent ban from some or all GB moderated communities and events. GB Leadership team will reach out to the original reporter to let them know what action we decided to take.
+  - Appeals to the decision may be made to the GB Leadership team directly, or any member of the administration team thereof.
 
 #### Administrators
 Below is the list of people who are moderators for our online communities. If you have any issues or need help, please feel free to reach out to anyone on this list. There is also the public `admin-help` channel on Slack where people can get help or clarification on any admin related issues.
 
-**The role of GoBridge: (Leadership Team):**
+**The role of GB (Leadership Team):**
 - They are the stewards for the different online communities.
 - They have rights in the systems tied to the primary owner role.
 - They act as administrators.
@@ -75,9 +75,9 @@ Below is the list of people who are moderators for our online communities. If yo
 - They have rights in the systems tied to the admin role.
 
 **Primary Owner:**  
-GoBridge (support@golangbridge.org)
+GB (support@golangbridge.org)
 
-**GoBridge Leadership Team:**  
+**GB Leadership Team:**  
 [Ashley McNamara](https://twitter.com/ashleymcnamara),
 [Carlisia Pinto](https://twitter.com/carlisia),
 [Carolyn Van Slyck](https://twitter.com/carolynvs),

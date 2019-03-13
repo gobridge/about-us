@@ -1,9 +1,9 @@
-# GoBridge Event Policies
+# GoBridge/Women Who Go - Event Policies
 
 ## About
 Online and Offline communities include people from many different backgrounds. The Go contributors are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or similar personal characteristics.
 
-We will be using the GoBridge Code of Conduct (CoC) as our base document for our standards and resolution procedures. In the spirit of being transparent, we will list our goals, values and expectations. We will also make it clear what you can expect from the organizers.
+We will be using the GoBridge [Code of Conduct](http://coc.gobridge.org) (CoC) as our base document for our standards and resolution procedures. In the spirit of being transparent, we will list our goals, values and expectations. We will also make it clear what you can expect from the organizers.
 
 ## Goals
 The first goal of the CoC is to specify a baseline standard of behavior so that people with different social values and communication styles can talk about Go effectively, productively, and respectfully. 
