@@ -92,19 +92,13 @@ GoBridge (support@golangbridge.org)
 [William Kennedy](https://twitter.com/goinggodotnet)
 
 **Moderators:**  
-[Amy Chen](https://twitter.com/TheAmyDance),
 [Andy Walker](https://twitter.com/alaskacodes),
 [Brian Ketelsen](https://twitter.com/bketelsen),
-[Bryan Liles](https://twitter.com/bryanl),
 [Damian Gryski](https://twitter.com/dgryski),
 [Daniel Martí](https://twitter.com/mvdan_),
 [Erik St. Martin](https://twitter.com/erikstmartin),
 [Florin Pățan](https://twitter.com/dlsniper),
-[Jason Moiron](https://twitter.com/jmoiron),
-[Kevin Gillette](https://twitter.com/kevingillette),
 [Kristoffer Berdal](https://twitter.com/flexd),
-[Levi Cook](https://twitter.com/levicook),
 [Nathan Youngman](https://twitter.com/nathany),
 [Scott Mansfield](https://twitter.com/sgmansfield),
-[Tim Heckman](https://twitter.com/theckman),
-[Trevor Bramble](https://twitter.com/TrevorBramble)
+[Tim Heckman](https://twitter.com/theckman)
