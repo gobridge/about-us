@@ -37,7 +37,7 @@ If you run a Go user group anywhere on the planet we want to hear from you. Let 
 We love workshops and want to help. Many of our core members will travel to your local community to help you teach a workshop. We can help with finding sponsors or even grant money. We have material you can use if you're not sure where to begin.
 
 * **Individual Mentoring**  
-If you need more one-on-one time to help improve your Go coding skills, we have people ready to help. You just need to be ready to put in the hard work. We have Go challenges, algorthms and other cool exercises to help you improve. We will provide code reviews and guidance.
+If you need more one-on-one time to help improve your Go coding skills, we have people ready to help. You just need to be ready to put in the hard work. We have Go challenges, algorithms and other cool exercises to help you improve. We will provide code reviews and guidance.
 
 * **Growing Underrepresented Minority Participation**  
 We are very focused on growing underrepresented minority participation at all of our events. This includes but is not limited to meetups, conferences and our online communities. We are doing this through diveristy scholarships, mentoring speakers and providing support any way we can.
