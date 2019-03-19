@@ -93,7 +93,7 @@ Your donation is fully tax-deductible. See [About BridgeFoundry](https://bridgef
 
 When donating through BridgeFoundry please note the funds are for GoBridge.
 
-[DONATE](https://www.paypal.com/donate/?token=nL5fBCbBUiYb1POWjzZaAa_PDl4iOrovmyHlfvD2p9qSykAQKHbxSn8eGY3Aa6pKJmrW2W&country.x=US&locale.x=US)
+[DONATE](https://bridgefoundry.org/donate)
 
 ### Leadership Team
 These are our core members who make up the leadership team.
@@ -103,9 +103,7 @@ These are our core members who make up the leadership team.
 [Carolyn Van Slyck](https://twitter.com/carolynvs),
 [Cassandra Salisbury](https://twitter.com/Cassandraoid),
 [Conrad Taylor](https://twitter.com/conradwt),
-[Edward Muller](https://twitter.com/freeformz),
-[Florin Pățan](https://twitter.com/dlsniper),
-[Gunjan Patel](https://twitter.com/Gunjan_Patel1),
+[Edward Muller](https://twitter.com/freeformz), 
 [Johnny Boursiquot](https://twitter.com/jboursiquot),
 [Maartje Eyskens](https://twitter.com/MaartjeME),
 [Natalie Pistunovich](https://twitter.com/NataliePis),
