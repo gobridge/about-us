@@ -100,9 +100,11 @@ These are our core members who make up the leadership team.
 
 [Ashley McNamara](https://twitter.com/ashleymcnamara),
 [Carlisia Pinto](https://twitter.com/carlisia),
+[Carmen Hernández Andoh](https://twitter.com/carmatrocity),
 [Carolyn Van Slyck](https://twitter.com/carolynvs),
 [Cassandra Salisbury](https://twitter.com/Cassandraoid),
 [Conrad Taylor](https://twitter.com/conradwt),
+[Diana Ortega](https://twitter.com/dicaormu),
 [Edward Muller](https://twitter.com/freeformz), 
 [Johnny Boursiquot](https://twitter.com/jboursiquot),
 [Maartje Eyskens](https://twitter.com/MaartjeME),
