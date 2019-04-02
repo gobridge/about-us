@@ -1,4 +1,4 @@
-# GoBridge/Women Who Go - CoC
+# GoBridge/WWG - CoC
 
 GoBridge (GB) and Women Who Go (WWG) uses the Go CoC as our base document:
 
