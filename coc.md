@@ -46,7 +46,7 @@ Commercial content is allowed if relevant to answering a question or keeping inl
 #### Reporting guidelines
 If someone is subject to or witnesses unacceptable behavior, or has any other concerns, they are strongly encouraged to notify an organizer, moderator or a GB Leadership team member as soon as possible. Every reported concern will follow this workflow until resolved:
 
-- Make contact by directly talking to an organizer, moderator or emailing support@golangbridge.org
+- Make contact by directly talking to an organizer, moderator or emailing support@gobridge.org
   - Your email message will reach the **GB Leadership team** only.
   - Reports will be confidential within the organizers team, moderators team or GB’s Leadership team.
 
