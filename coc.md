@@ -75,15 +75,17 @@ Below is the list of people who are moderators for our online communities. If yo
 - They have rights in the systems tied to the admin role.
 
 **Primary Owner:**  
-GB (support@golangbridge.org)
+GB (support@gobridge.org)
 
 **GB Leadership Team:**  
 [Ashley McNamara](https://twitter.com/ashleymcnamara),
 [Carlisia Pinto](https://twitter.com/carlisia),
+[Carmen Hernández Andoh](https://twitter.com/carmatrocity),
 [Carolyn Van Slyck](https://twitter.com/carolynvs),
 [Cassandra Salisbury](https://twitter.com/Cassandraoid),
 [Conrad Taylor](https://twitter.com/conradwt),
-[Edward Muller](https://twitter.com/freeformz),
+[Diana Ortega](https://twitter.com/dicaormu),
+[Edward Muller](https://twitter.com/freeformz), 
 [Johnny Boursiquot](https://twitter.com/jboursiquot),
 [Maartje Eyskens](https://twitter.com/MaartjeME),
 [Natalie Pistunovich](https://twitter.com/NataliePis),
