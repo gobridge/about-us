@@ -31,9 +31,7 @@ These are initiatives that have a time limit if you're interested in applying or
 We always have fun and exciting things we are working on to support the Go community. If you have time to help or you think one of these programs can help you, send us an [email](mailto:support@golangbridge.org).
 
 * **Meetup accounts for Go user groups worldwide**  
-If you run a Go user group anywhere on the planet we want to hear from you. Let us provide you a Meetup account for free to help support your efforts in your local community. If you want to start a new meetup, check out the [GDN FAQ](https://github.com/gobridge/about-us/gdn.md) for more information.
-
-View the GDN map of [Go Meetups](https://www.meetup.com/pro/go)
+If you run a Go user group anywhere on the planet we want to hear from you. Let us provide you a Meetup account for free to help support your efforts in your local community. If you want to start a new meetup, check out the [GDN FAQ](https://github.com/gobridge/about-us/gdn.md) for more information. View the GDN map of [Go Meetups](https://www.meetup.com/pro/go)
 
 * **Running, Managing and Supporting Workshops**  
 We love workshops and want to help. Many of our core members will travel to your local community to help you teach a workshop. We can help with finding sponsors or even grant money. We have material you can use if you're not sure where to begin.
