@@ -31,7 +31,9 @@ These are initiatives that have a time limit if you're interested in applying or
 We always have fun and exciting things we are working on to support the Go community. If you have time to help or you think one of these programs can help you, send us an [email](mailto:support@golangbridge.org).
 
 * **Meetup accounts for Go user groups worldwide**  
-If you run a Go user group anywhere on the planet we want to hear from you. Let us provide you a Meetup account for free to help support your efforts in your local community.
+If you run a Go user group anywhere on the planet we want to hear from you. Let us provide you a Meetup account for free to help support your efforts in your local community. If you want to start a new meetup, check out the [GDN FAQ](https://github.com/gobridge/about-us/gdn.md) for more information.
+
+View the GDN map of [Go Meetups](https://www.meetup.com/pro/go)
 
 * **Running, Managing and Supporting Workshops**  
 We love workshops and want to help. Many of our core members will travel to your local community to help you teach a workshop. We can help with finding sponsors or even grant money. We have material you can use if you're not sure where to begin.
@@ -59,7 +61,7 @@ We are here to support you in your quest to share your experience and knowledge 
 ### Online/Offline Communities
 GoBridge has the responsibility of being the steward for online and offline Go communities. We work with an incredible team of administrators to make sure these sites/events are inclusive to the largest number of communities and viewpoints, with the most varied and diverse backgrounds possible.
 
-* We provide Go user groups access to a free [Meetup](https://www.meetup.com/pro/go) account. This program is supported through generous contributions by Google. If you are currently running a user group or thinking about one, send us an [email](mailto:support@golangbridge.org). We can help you get thingd started.
+* We provide Go user groups access to a free [Meetup](https://www.meetup.com/pro/go) account. This program is supported through generous contributions by Google. If you are currently running a user group or thinking about one, send us an [email](mailto:gdn@gobridge.org). We can help you get thingd started.
 
 * Gophers [Slack](https://invite.slack.golangbridge.org/) is a thriving, real-time messaging community. If you are looking to get immediate answers to questions or join in conversation about Go with other Gophers, this is the place to be.
 
