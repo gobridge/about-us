@@ -18,9 +18,9 @@ GB is acting as the current custodians and stewards of the GDN. This means the p
 The volunteers are a combination of members of the GB leadership team and active Go community organizers within the GDN with Van Riper as the program director. If you are interested in being involved in GB, please email [suppot@gobridge.org](mailto:suppot@gobridge.org). We will happily discuss the programs that need help and work with you to find opportunities to be involved.
 
 **What are the GDN membership requirements for meetups?**  
-Your Meetup must adhere to the Go or GB CoC
-Your Meetup must primarily focus on topics of relevance to Go developers
-Your Meetup must hold meetings at least once every 3 months
+* Your Meetup must adhere to the Go or GB CoC
+* Your Meetup must primarily focus on topics of relevance to Go developers
+* Your Meetup must hold meetings at least once every 3 months
 
 The GDN has an inherent monetary and volunteer cost. To that end, meetups must meet these requirements to be added to the GDN. Meetups in the GDN that no longer meet these requirements are subject to be removed from the GDN. 
 
