@@ -25,12 +25,12 @@ The volunteers are a combination of members of the GB leadership team and active
 The GDN has an inherent monetary and volunteer cost. To that end, meetups must meet these requirements to be added to the GDN. Meetups in the GDN that no longer meet these requirements are subject to be removed from the GDN. 
 
 **What is the process by which groups are removed from the GDN?**  
-Groups are reviewed quarterly to validate their activity and events.
-Groups will be contacted if it appears the group is not making an effort to be active.
-GB will do its very best to help groups that are struggling and need the extra support.
-Meetup organizers of existing groups may be called in to provide help and assistance. 
-Groups that are unable to sustain a membership and activity will be considered for removal.
-Removal will not occur without discussions with organizers.
+* Groups are reviewed quarterly to validate their activity and events.
+* Groups will be contacted if it appears the group is not making an effort to be active.
+* GB will do its very best to help groups that are struggling and need the extra support.
+* Meetup organizers of existing groups may be called in to provide help and assistance. 
+* Groups that are unable to sustain a membership and activity will be considered for removal.
+* Removal will not occur without discussions with organizers.
 
 **Do organizers lose their autonomy when joining the GDN?**  
 Absolutely not. Joining your Meetup into the GDN just means you become a part of this global network of user groups. By joining, you have direct access to GB volunteers who are helping to administer and support the network. Not every organizer needs the same support, but GB is here to help in anyway they can to support the meetup and their local participants. 
