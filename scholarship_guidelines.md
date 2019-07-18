@@ -2,7 +2,7 @@
 
 **Objective:** The following document is meant to describe the process of giving away diversity scholarships for conferences. Hopefully this document can give some insights into how such a process can work and how to maximise the benefits from it.
 
-* Resources: Funds, flights, accomodations, conference tickets, etc.
+* Resources: Funds, flights, accommodations, conference tickets, etc.
     * There's room for creativity here. Raising money from community funds for the conference is obvious. Other available channels to obtain more benefits to give away may be: 
         * The conference itself. Is the conference willing to give away tickets?
         * The speakers may donate their travel expenses. Not all speakers require travel expenses coverage, as their companies are covering those, or, given the choice may even opt to share rooms with other speakers if suggested to them it’s for a good purpose, thus clearing rooms for scholarship applicants. Similarly, if a speaker is using company funds to travel to a conference, the conference might have some funds available to fly an applicant in their stead.

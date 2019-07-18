@@ -79,9 +79,9 @@ Want to get involved? [Organize](https://github.com/gobridge/organizing) a works
 ### Important Event Documents
 These are documents you will need when you are ready to publish your events online.
 
-Please use this [policy](http://policies.golangbridge.org) document when providing attendies information about the standards and resolution procedures for your event. Make a copy and fill in the specifics about your organizers and contact information. This document includes a link to our [Code of Conduct](http://coc.golangbridge.org).
+Please use this [policy](http://policies.golangbridge.org) document when providing attendees information about the standards and resolution procedures for your event. Make a copy and fill in the specifics about your organizers and contact information. This document includes a link to our [Code of Conduct](http://coc.golangbridge.org).
 
-Review these [scholarship guidelines](https://github.com/gobridge/about-us/blob/master/scholarship_guidelines.md) before offering any kind of scholorship. Then use this [scholarship application](https://github.com/gobridge/about-us/blob/master/scholarship_app.md) when accepting scholorship applicants for your event. There are a lot of things to consider and we have listed many of them. A lot of this imformation is also perfect to document on your event site.
+Review these [scholarship guidelines](https://github.com/gobridge/about-us/blob/master/scholarship_guidelines.md) before offering any kind of scholarship. Then use this [scholarship application](https://github.com/gobridge/about-us/blob/master/scholarship_app.md) when accepting scholarship applicants for your event. There are a lot of things to consider and we have listed many of them. A lot of this information is also perfect to document on your event site.
 
 ### Become a Sponsor
 Most GoBridge workshops need some level of support. This can range from offering a space, paying for food or even travel expenses for trainers. If you or your company is interested in helping, please send us an [email](mailto:support@golangbridge.org).
