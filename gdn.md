@@ -15,7 +15,7 @@ In July of 2015, GoBridge was formed with the mission to increase diversity in t
 GB is acting as the current custodians and stewards of the GDN. This means the payment, administration and management of the systems, communications and community interactions directly related to the GDN will be handled by GB directly.
 
 **How does someone get involved in volunteering with the GDN?**  
-The volunteers are a combination of members of the GB leadership team and active Go community organizers within the GDN with Van Riper as the program director. If you are interested in being involved in GB, please email [suppot@gobridge.org](mailto:suppot@gobridge.org). We will happily discuss the programs that need help and work with you to find opportunities to be involved.
+The volunteers are a combination of members of the GB leadership team and active Go community organizers within the GDN with Van Riper as the program director. If you are interested in being involved in GB, please email [support@gobridge.org](mailto:support@gobridge.org). We will happily discuss the programs that need help and work with you to find opportunities to be involved.
 
 **What are the GDN membership requirements for meetups?**  
 * Your Meetup must adhere to the Go or GB CoC
