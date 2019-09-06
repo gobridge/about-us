@@ -9,7 +9,7 @@ Contact us at [support@golangbridge.org](mailto:support@golangbridge.org) with a
 Our core mission is to enable minorities in tech to use Go as a tool to learn and teach programming and, ultimately, to empower underrepresented groups in tech to help increase diversity in the Go community.
 
 #### Core Vision
-We believe education is most effective when it is tailored to and provided by local communities. We are dedicated to growing and supporting local teams of individuals and companies who will have ownership in the work they do. We are also dedicated to developing in-depth and idiomatic training materials. Our workshops are targeted at smaller, local Go communities, and not necessarily directly at the global Go community. But we believe that, as each individual the Go community strengthens, the collective Go community will, in turn, strengthen as well.
+We believe education is most effective when it is tailored to and provided by local communities. We are dedicated to growing and supporting local teams of individuals and companies who will have ownership in the work they do. We are also dedicated to developing in-depth and idiomatic training materials. Our workshops are targeted at smaller, local Go communities, and not necessarily directly at the global Go community. But we believe that, as each individual in the Go community strengthens, the collective Go community will, in turn, strengthen as well.
 
 ### Time-Sensitive Initiatives
 These are initiatives that have a time limit if you're interested in applying or helping.
