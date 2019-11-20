@@ -30,7 +30,7 @@ From having a look at other diversity scholarships we found that there are two t
 * Candidates are ranked based on their
     * qualifications
     * story
-    * mpact on the community
+    * impact on the community
     * impact for them
 
 For both cases a committee should be gathered to determine who's qualified or to rank the candidates (where each member of the committee can give points to candidates). Anonymization of the applications is advisable, however, some applicants may have already received scholarships and you might decide you'd like to filter them out.
