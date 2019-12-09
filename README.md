@@ -1,12 +1,6 @@
 ## GoBridge
 GoBridge is a member of the non-profit organization [BridgeFoundry](https://bridgefoundry.org). At GoBridge we build bridges to educate underrepresented communities to teach technical skills and to foster diversity in Go.
 
-<p align="center">
-    <a href="https://www.jetbrains.com/lp/support-go/">
-        <img src="goland-campaign.png" width="500px">
-    </a>
-</p>
-
 Contact us at [support@golangbridge.org](mailto:support@golangbridge.org) with any questions, issues or requests you may have.
 
 ![](gb_header.png)
