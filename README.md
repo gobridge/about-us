@@ -58,7 +58,7 @@ GoBridge has the responsibility of being the steward for online and offline Go c
 
 * We provide Go user groups access to a free [Meetup](https://www.meetup.com/pro/go) account. This program is supported through generous contributions by Google. If you are currently running a user group or thinking about one, send us an [email](mailto:gdn@gobridge.org). We can help you get things started.
 
-* Gophers [Slack](https://invite.slack.golangbridge.org/) is a thriving, real-time messaging community. If you are looking to get immediate answers to questions or join in the conversation about Go with other Gophers, this is the place to be.
+* Gophers [Slack](https://invite.slack.gobridge.org) is a thriving, real-time messaging community. If you are looking to get immediate answers to questions or join in the conversation about Go with other Gophers, this is the place to be.
 
 * Go [Forum](https://forum.golangbridge.org/) is a site where ideas, views, questions, and answers can be exchanged and discussed. It also allows for all the content that is discussed to be indexed and searchable from the Web. If you are looking for historical answers to your questions, this is the place to search.
 
