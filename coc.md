@@ -12,7 +12,7 @@ If you feel comfortable, we encourage you to use your real name in all of our on
 Organizers and moderators may ask people to change their handles or usernames if it conflicts with known public figures, impersonates other people, sounds like automated tools, contains inappropriate language, or other unclear cases.
 
 ### Language Policy
-We are working hard to keep our public spaces family-friendly and as inclusive as possible. At the organizers or moderators discretion, words and images that are deemed inappropriate or offensive will be moderated. Please reach out to the organizers or moderators for a list of words that are being moderated.
+We are working hard to keep our public spaces family-friendly and as inclusive as possible. At the organizers or moderators discretion, words and images that are deemed inappropriate or offensive will be moderated. Generally, cursing is not allowed. Please reach out to the organizers or moderators for a list of words that are being moderated.
 
 ### Moderation
 Participants in our online and offline GB/WWG communities and events should flag inappropriate behavior to organizers and moderators rather than addressing it themselves. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category, and public conversations that are inappropriate. Please report any violations to the #admin-help channel on gophers.slack.com as early as possible or privately message Carmen Andoh or William Kennedy directly. At our offline events please report any violations to the organizers or email support@gobridge.org.
