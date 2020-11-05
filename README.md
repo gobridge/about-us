@@ -1,7 +1,7 @@
 ## GoBridge
 GoBridge is a member of the non-profit organization [BridgeFoundry](https://bridgefoundry.org). At GoBridge we build bridges to educate underrepresented communities to teach technical skills and to foster diversity in Go.
 
-Contact us at [support@golangbridge.org](mailto:support@golangbridge.org) with any questions, issues or requests you may have.
+Contact us at [support@gobridge.org](mailto:support@golangbridge.org) with any questions, issues or requests you may have.
 
 ![](gb_header.png)
 
@@ -37,13 +37,13 @@ If you run a Go user group anywhere on the planet we want to hear from you. Let 
 We love workshops and want to help. Many of our core members will travel to your local community to help you teach a workshop. We can help with finding sponsors or even grant money. We have material you can use if you're not sure where to begin.
 
 * **Individual Mentoring**  
-If you need more one-on-one time to help improve your Go coding skills, we have people ready to help. You just need to be ready to put in the hard work. We have Go challenges, algorithms, and other cool exercises to help you improve. We will provide code reviews and guidance.
+If you need more one-on-one time to help improve your Go coding skills, we have people ready to help. You just need to be ready to put in the hard work. We have Go challenges, algorithms, and other cool exercises to help you improve. We will provide code reviews and guidance. This platform will get you started whether you want to be a Mentor or you need a Mentor. [Mentoring Platform](https://mentoring.gobridge.org).
 
 * **Growing Underrepresented Minority Participation**  
 We are very focused on growing underrepresented minority participation at all of our events. This includes but is not limited to meetups, conferences and our online communities. We are doing this through diversity scholarships, mentoring speakers and providing support any way we can.
 
-* **Producing The Go Podcast**  
-If you love hearing from different people in the Go community about what they are working on, the podcast is a great place to go. We are focused on creating a new Go podcast that provides the quality content you expect with a bit of fun thrown in. Coming soon!
+* **Asociația unPi pentru Școlari**  
+We are helping kids in Romania learn Go buy providing familes access to Raspberry Pi's. To learn more check out this [site](https://start.unpi.ro/).
 
 * **Administration**  
 We always have little things that need to get done to keep the organization running. We are lucky to be in a field where tech is our focus. Outside of having to maintain the systems we rely on, there are other things we need to get in place. A big one is finding ways to collect analytics around how we are doing as an organization. Reviewing and defining our policies and procedures is another important job. Last but not least, keeping all our content and information relevant and up to date.
