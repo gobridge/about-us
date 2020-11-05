@@ -43,7 +43,7 @@ If you need more one-on-one time to help improve your Go coding skills, we have 
 We are very focused on growing underrepresented minority participation at all of our events. This includes but is not limited to meetups, conferences and our online communities. We are doing this through diversity scholarships, mentoring speakers and providing support any way we can.
 
 * **Asociația unPi pentru Școlari**  
-We are helping kids in Romania learn Go buy providing familes access to Raspberry Pi's. To learn more check out this [site](https://start.unpi.ro/).
+We are helping kids in Romania learn Go buy providing familes access to Raspberry Pi's. To learn more check out this [site](https://start.unpi.ro/english/).
 
 * **Administration**  
 We always have little things that need to get done to keep the organization running. We are lucky to be in a field where tech is our focus. Outside of having to maintain the systems we rely on, there are other things we need to get in place. A big one is finding ways to collect analytics around how we are doing as an organization. Reviewing and defining our policies and procedures is another important job. Last but not least, keeping all our content and information relevant and up to date.
