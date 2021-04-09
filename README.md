@@ -96,6 +96,7 @@ When donating through BridgeFoundry please note the funds are for GoBridge.
 These are our core members who make up the leadership team.
 
 [Ashley McNamara](https://twitter.com/ashleymcnamara),
+[Angelica Hill](https://twitter.com/Angelica_Hill),
 [Carlisia Pinto](https://twitter.com/carlisia),
 [Carmen Hernández Andoh](https://twitter.com/carmatrocity),
 [Carolyn Van Slyck](https://twitter.com/carolynvs),
@@ -106,6 +107,5 @@ These are our core members who make up the leadership team.
 [Maartje Eyskens](https://twitter.com/MaartjeME),
 [Natalie Pistunovich](https://twitter.com/NataliePis),
 [Sarah Allen](https://twitter.com/ultrasaurus),
-[Van Riper](https://twitter.com/vanriper),
 [Wilken Rivera](https://twitter.com/wilkenrivera),
 [William Kennedy](https://twitter.com/goinggodotnet)
