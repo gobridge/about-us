@@ -96,11 +96,9 @@ GB (support@gobridge.org)
 **Moderators:**  
 [Andy Walker](https://twitter.com/alaskacodes),
 [Brian Ketelsen](https://twitter.com/bketelsen),
-[Daniel Martí](https://twitter.com/mvdan_),
 [Erik St. Martin](https://twitter.com/erikstmartin),
 [Florin Pățan](https://twitter.com/dlsniper),
 [Kristoffer Berdal](https://twitter.com/flexd),
 [Martin Gallagher](https://twitter.com/MGallagher2010),
 [Nathan Youngman](https://twitter.com/nathany),
-[Scott Mansfield](https://twitter.com/sgmansfield),
-[Tim Heckman](https://twitter.com/theckman)
+[Scott Mansfield](https://twitter.com/sgmansfield)
