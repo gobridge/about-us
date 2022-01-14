@@ -100,5 +100,4 @@ GB (support@gobridge.org)
 [Florin Pățan](https://twitter.com/dlsniper),
 [Kristoffer Berdal](https://twitter.com/flexd),
 [Martin Gallagher](https://twitter.com/MGallagher2010),
-[Nathan Youngman](https://twitter.com/nathany),
 [Scott Mansfield](https://twitter.com/sgmansfield)
