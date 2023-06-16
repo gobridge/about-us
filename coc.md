@@ -87,7 +87,7 @@ GB (support@gobridge.org)
 [Edward Muller](https://twitter.com/freeformz), 
 [Johnny Boursiquot](https://twitter.com/jboursiquot),
 [Maartje Eyskens](https://twitter.com/MaartjeME),
-[Matthew Sanabria](https://twitter.com/sudomateo)
+[Matthew Sanabria](https://twitter.com/sudomateo),
 [Natalie Pistunovich](https://twitter.com/NataliePis),
 [Sarah Allen](https://twitter.com/ultrasaurus),
 [Van Riper](https://twitter.com/vanriper),

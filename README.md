@@ -105,7 +105,7 @@ These are our core members who make up the leadership team.
 [Edward Muller](https://twitter.com/freeformz), 
 [Johnny Boursiquot](https://twitter.com/jboursiquot),
 [Maartje Eyskens](https://twitter.com/MaartjeME),
-[Matthew Sanabria](https://twitter.com/sudomateo)
+[Matthew Sanabria](https://twitter.com/sudomateo),
 [Natalie Pistunovich](https://twitter.com/NataliePis),
 [Sarah Allen](https://twitter.com/ultrasaurus),
 [Wilken Rivera](https://twitter.com/wilkenrivera),
