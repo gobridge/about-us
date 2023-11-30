@@ -78,26 +78,16 @@ Below is the list of people who are moderators for our online communities. If yo
 GB (support@gobridge.org)
 
 **GB Leadership Team:**  
-[Ashley McNamara](https://twitter.com/ashleymcnamara),
-[Carlisia Pinto](https://twitter.com/carlisia),
-[Carmen Hernández Andoh](https://twitter.com/carmatrocity),
-[Carolyn Van Slyck](https://twitter.com/carolynvs),
-[Conrad Taylor](https://twitter.com/conradwt),
-[Diana Ortega](https://twitter.com/dicaormu),
 [Edward Muller](https://twitter.com/freeformz), 
 [Johnny Boursiquot](https://twitter.com/jboursiquot),
 [Maartje Eyskens](https://twitter.com/MaartjeME),
 [Matthew Sanabria](https://twitter.com/sudomateo),
 [Natalie Pistunovich](https://twitter.com/NataliePis),
 [Sarah Allen](https://twitter.com/ultrasaurus),
-[Van Riper](https://twitter.com/vanriper),
 [Wilken Rivera](https://twitter.com/wilkenrivera),
 [William Kennedy](https://twitter.com/goinggodotnet)
 
 **Moderators:**  
-[Andy Walker](https://twitter.com/alaskacodes),
-[Brian Ketelsen](https://twitter.com/bketelsen),
-[Erik St. Martin](https://twitter.com/erikstmartin),
 [Florin Pățan](https://twitter.com/dlsniper),
 [Kristoffer Berdal](https://twitter.com/flexd),
 [Martin Gallagher](https://twitter.com/MGallagher2010),
